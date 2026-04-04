@@ -1,6 +1,6 @@
-#College Predictor
+# College Predictor
 
-A full-stack web app that predicts best colleges based on percentile.
+A full-stack web app that predicts the best colleges based on percentile.
 
 ## Tech Stack
 - Frontend: React + TypeScript + Tailwind
@@ -13,17 +13,17 @@ A full-stack web app that predicts best colleges based on percentile.
 - Location & branch filtering
 - Match score system
 
-##  Screenshots
-(Add your UI screenshot here)
+## Screenshots
+*(Add your UI screenshot here)*
 
-##  Run Locally
+## Run Locally
 
 ### Frontend
-cd project
+dc project
 npm install
 npm run dev
 
 ### Backend
-cd backend
+dc backend
 pip install flask flask-cors
 python app.py
