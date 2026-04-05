@@ -4,7 +4,7 @@ A full-stack web app that predicts the best colleges based on percentile.
 
 ## Tech Stack
 - Frontend: React + TypeScript + Material UI
-- Backend: Python Flask
+- Backend: Python 
 - API: REST
 
 ## Features
