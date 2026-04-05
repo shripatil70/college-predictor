@@ -2,6 +2,11 @@
 
 A full-stack web app that predicts the best colleges based on percentile.
 
+## Live Demo
+👉 https://college-predictor-k8mu.vercel.app
+
+---
+
 ## Tech Stack
 - Frontend: React + TypeScript + Material UI
 - Backend: Python 
