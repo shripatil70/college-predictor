@@ -14,7 +14,7 @@ A full-stack web app that predicts the best colleges based on percentile.
 - Match score system
 
 ## Screenshots
-*(Add your UI screenshot here)*
+![Alt text](https://github.com/shripatil70/college-predictor/blob/014dd8f36da131bcbbac74808ab097217fee2e92/screenshots/college_predictor_UI.png)
 
 ## Run Locally
 
