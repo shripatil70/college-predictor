@@ -19,9 +19,9 @@ A full-stack web app that predicts the best colleges based on percentile.
 ## Run Locally
 
 ### Frontend
--npm install
--npm run dev
+- npm install
+- npm run dev
 
 ### Backend
--pip install flask flask-cors
--python app.py
+- pip install flask flask-cors
+- python app.py
